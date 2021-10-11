@@ -17,3 +17,9 @@ body{
     border-radius: 10rem !important;
     padding: 1.25rem 2.24rem !important;
 }
+.message{
+    font-size: 16px;
+}
+.services{
+    font-size: 16px;
+}
